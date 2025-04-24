@@ -9,7 +9,7 @@ A lightweight Python script that wraps DEMUCS stem separation tool. Automaticall
 </p>
 
 ## Screenshots
-<img width=60% src="https://raw.githubusercontent.com/cameronos/8bit-bmp-2-c/refs/heads/main/8bit_bmp.png">
+<img width=60% src="https://raw.githubusercontent.com/cameronos/stem_ripper/refs/heads/main/stem_sc.png">
 
 ## Features
 - GPU-accelerated stem splitting via CUDA (if available)
